@@ -1,6 +1,6 @@
 # Taxi demand prediction in New York City
 
-![](https://github.com/ProtikKumarBiswas/Taxi-Demand-Prediction/blob/main/New_york.gif)
+![](https://www.nyc.gov/assets/tlc/images/content/pages/about/data_and_research.png)
 
 ## Data Information
 <p>
